@@ -1,2 +1,3 @@
-serverdata/
+serverdata/*
+!**/.gitkeep
 
