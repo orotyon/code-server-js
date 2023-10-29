@@ -8,7 +8,7 @@ services:
       - PUID=1000
       - PGID=1000
       - TZ=Etc/UTC
-      - PASSWORD=TEST
+      - PASSWORD=TESTSERVER
     volumes:
       - ./serverdata:/config
     ports:
