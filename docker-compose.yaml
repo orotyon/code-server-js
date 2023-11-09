@@ -12,5 +12,5 @@ services:
     volumes:
       - ./serverdata:/config
     ports:
-      - 8443:8443
+      - 51215:8443
     restart: unless-stopped
